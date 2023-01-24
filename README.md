@@ -6,6 +6,8 @@ I'm a {backend, frontend and mobile} developer and technical support specialist.
 
 - [linkedin](https://www.linkedin.com/in/jo%C3%A3o-vitor-carvalho-barros-7500a9222/) 💻 Site for job opportunities. 
 
+### Knowledge in programming languages
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nog-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
