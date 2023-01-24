@@ -14,7 +14,7 @@ I'm a {backend, frontend and mobile} developer and technical support specialist.
   <img align="center" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
   <img align="center" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
   <img align="center" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-   <img align="center" alt="PHP" width="26px" src="https://www.php.net/images/logos/new-php-logo.svg" style="padding-right:10px;" />
+   <img align="center" alt="PHP" width="49px" src="https://www.php.net/images/logos/new-php-logo.svg" style="padding-right:15px;" />
   
   
   
