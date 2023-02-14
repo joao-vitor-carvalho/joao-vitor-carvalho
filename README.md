@@ -5,6 +5,7 @@
 I'm a {backend, frontend and mobile} developer and technical support specialist.
 
 - [linkedin](https://www.linkedin.com/in/jo%C3%A3o-vitor-carvalho-barros-7500a9222/) 💻 Site for job opportunities. 
+- [portifolio](https://joao-vitor-carvalho.github.io/) Portifolio
 
 ### Knowledge in programming languages
 
