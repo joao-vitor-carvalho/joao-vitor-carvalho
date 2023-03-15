@@ -8,10 +8,9 @@ I'm a {backend, frontend and mobile} developer and technical support specialist.
 
 <div align="left">
   <a href="https://github.com/joao-vitor-carvalho">
-  <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=joao-vitor-carvalho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=joao-vitor-carvalho&layout=compact&langs_count=7&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elibooklover&count_private=true&theme=radical
-"/>    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-vitor-carvalho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vitor-carvalho&layout=compact&langs_count=7&theme=radical"/>
+     
 </div>
   
  
