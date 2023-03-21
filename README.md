@@ -2,9 +2,21 @@
 # Hello, I'm João Vitor! 
 
 ### About me
-I'm a {backend, frontend and mobile} developer and technical support specialist.
+I'm a {backend, frontend and mobile} software developer .
+
+<br><a href="https://joao-vitor-carvalho.github.io/joao-vitor-carvalho-en.github.io/" target="_blank"><img src="https://img.shields.io/static/v1?label=Portifolio&message=DevOps&color=violet" target="_blank"></a> 
+
+
+### Em português 
+
+# Olá, Eu sou João Vitor! 
+
+### Sobre mim
+Eu sou um desenvolvedor de software {backend, frontend and mobile}.
 
 <br><a href="https://joao-vitor-carvalho.github.io/" target="_blank"><img src="https://img.shields.io/static/v1?label=Portifolio&message=DevOps&color=violet" target="_blank"></a> 
+
+
 
 <div align="left">
   <a href="https://github.com/joao-vitor-carvalho">
